@@ -41,8 +41,8 @@ This project performs EDA on NYC taxi data to find patterns in:
 
 ## 📁 Files Included
 
-- `EDA_Optimising_NYC_Taxis_VikashvishnuSrinivasan.ipynb` — full analysis
-- `EDA_Optimising_NYC_Taxis_VikashvishnuSrinivasan.pdf` — report with visuals
+- `EDA_Optimising_NYC_Taxis_VikashvishnuSrinivasan.ipynb` — Interactive Python Notebook
+- `EDA_Optimising_NYC_Taxis_VikashvishnuSrinivasan.pdf` — Report Document
 
 ---
 
